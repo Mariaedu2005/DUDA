@@ -10,3 +10,4 @@ Apresentação Pessoal - https://docs.google.com/presentation/d/18l9SJDunw09gpKJ
 
 Power Bi Dados Prouni - https://app.powerbi.com/groups/me/reports/cd6b1f6f-d00f-4b78-b5d7-6292a67dab95?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
 
+![image](https://github.com/user-attachments/assets/1504d03c-3458-48d1-98b3-a3635efa4272)
