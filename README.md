@@ -8,3 +8,5 @@ LINK ATIVIDADE - [DADOS ABERTOS](https://fatecspgov-my.sharepoint.com/:u:/r/pers
 
 Apresentação Pessoal - https://docs.google.com/presentation/d/18l9SJDunw09gpKJOw6lQrv58sQ5PLZU1r_E06e-x9OY/edit?usp=sharing
 
+Power Bi Dados Prouni - https://app.powerbi.com/groups/me/reports/cd6b1f6f-d00f-4b78-b5d7-6292a67dab95?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
+
