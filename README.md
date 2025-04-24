@@ -6,4 +6,5 @@ LINK ATIVIDADE - [DADOS ABERTOS](https://fatecspgov-my.sharepoint.com/:u:/r/pers
 
 [PLANILHA DADOS ABERTOS BOLSAS PROUNI 2020](https://dadosabertos.mec.gov.br/images/conteudo/prouni/2020/ProuniRelatorioDadosAbertos2020.csv)
 
-[Apresentação] ('https://docs.google.com/presentation/d/18l9SJDunw09gpKJOw6lQrv58sQ5PLZU1r_E06e-x9OY/edit?usp=sharing')
+Apresentação Pessoal - https://docs.google.com/presentation/d/18l9SJDunw09gpKJOw6lQrv58sQ5PLZU1r_E06e-x9OY/edit?usp=sharing
+
