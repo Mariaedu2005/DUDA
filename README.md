@@ -11,3 +11,20 @@ Apresentação Pessoal - https://docs.google.com/presentation/d/18l9SJDunw09gpKJ
 Power Bi Dados Prouni - https://app.powerbi.com/groups/me/reports/cd6b1f6f-d00f-4b78-b5d7-6292a67dab95?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi
 
 ![image](https://github.com/user-attachments/assets/1504d03c-3458-48d1-98b3-a3635efa4272)
+
+
+
+# ATIVIDADE USANDO MACHINE LEARNING E EXCEL
+[ICE CREAM] Google Colab (https://teams.microsoft.com/l/message/48:notes/1747694716179?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D).
+
+planilha (https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Ice%20Cream%201%20-%20Copiar.xlsx?d=w3d55f2b3212143dda882e996abc0536f&csf=1&web=1&e=rqznDg)
+
+[image](https://teams.microsoft.com/l/message/48:notes/1747694956102?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
+
+
+
+[consumo de cerveja] planilha (https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Consumo_cerveja%201.xlsx?d=wf9843fd795254d5d99df1477a3dc891d&csf=1&web=1&e=JCTAmX).
+
+[image](https://teams.microsoft.com/l/message/48:notes/1747959274775?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
+[image](https://teams.microsoft.com/l/message/48:notes/1747959307057?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
+[image](https://teams.microsoft.com/l/message/48:notes/1747959329760?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
