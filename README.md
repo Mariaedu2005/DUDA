@@ -15,16 +15,23 @@ Power Bi Dados Prouni - https://app.powerbi.com/groups/me/reports/cd6b1f6f-d00f-
 
 
 # ATIVIDADE USANDO MACHINE LEARNING E EXCEL
-[ICE CREAM] Google Colab (https://teams.microsoft.com/l/message/48:notes/1747694716179?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D).
+ICE CREAM 
 
-planilha (https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Ice%20Cream%201%20-%20Copiar.xlsx?d=w3d55f2b3212143dda882e996abc0536f&csf=1&web=1&e=rqznDg)
+[GOOGLE COLAB](https://teams.microsoft.com/l/message/48:notes/1747694716179?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D).
 
-[image](https://teams.microsoft.com/l/message/48:notes/1747694956102?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
+[planilha](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Ice%20Cream%201%20-%20Copiar.xlsx?d=w3d55f2b3212143dda882e996abc0536f&csf=1&web=1&e=rqznDg)
 
 
+![image](https://github.com/user-attachments/assets/d0e9443b-060a-42c4-a96d-2a7fb6a161d3)
+![image](https://github.com/user-attachments/assets/b0603f74-1dbe-4df7-b0b5-9983f38ef1bc)
 
-[consumo de cerveja] planilha (https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Consumo_cerveja%201.xlsx?d=wf9843fd795254d5d99df1477a3dc891d&csf=1&web=1&e=JCTAmX).
 
-[image](https://teams.microsoft.com/l/message/48:notes/1747959274775?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
-[image](https://teams.microsoft.com/l/message/48:notes/1747959307057?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
-[image](https://teams.microsoft.com/l/message/48:notes/1747959329760?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Aeb0e9c29-cfb4-4409-899c-81a6e6ba5110%22%7D)
+consumo de cerveja
+
+[planilha](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Consumo_cerveja%201.xlsx?d=wf9843fd795254d5d99df1477a3dc891d&csf=1&web=1&e=JCTAmX).
+
+![image](https://github.com/user-attachments/assets/1bf2748c-4df3-464b-a140-1bf771c9b181)
+![image](https://github.com/user-attachments/assets/aa4c63d9-59be-44cc-a375-ee4f0e23b8a5)
+![image](https://github.com/user-attachments/assets/a8a47687-db8e-4e77-b774-e5a9b2122619)
+
+
