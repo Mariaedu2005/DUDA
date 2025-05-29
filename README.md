@@ -26,12 +26,27 @@ ICE CREAM
 ![image](https://github.com/user-attachments/assets/b0603f74-1dbe-4df7-b0b5-9983f38ef1bc)
 
 
-consumo de cerveja
+CONSUMO DE CERVEJA
 
 [planilha](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Consumo_cerveja%201.xlsx?d=wf9843fd795254d5d99df1477a3dc891d&csf=1&web=1&e=JCTAmX).
 
 ![image](https://github.com/user-attachments/assets/1bf2748c-4df3-464b-a140-1bf771c9b181)
 ![image](https://github.com/user-attachments/assets/aa4c63d9-59be-44cc-a375-ee4f0e23b8a5)
 ![image](https://github.com/user-attachments/assets/a8a47687-db8e-4e77-b774-e5a9b2122619)
+
+Perguntas:
+1) os dois modelos são iguais? sim. A diferença são as informações contidas nas planilhas que faz com que a movimentação no gráfica ocorra.
+2) Usaria o gráfico de linha porque as mudanças de informações ficam fácil de visualizar.
+
+VENDA DE CASAS
+
+[PLANILHA](https://fatecspgov-my.sharepoint.com/:x:/g/personal/maria_nascimento50_fatec_sp_gov_br/EW2Kv4pZtGdAkNpTPgfNV0wBQ3lEpEqMVv8AXFWuh2UA5w)
+
+[COLAB](https://colab.research.google.com/drive/1lAI1UxJoXL0Vf5eJAkS25wrsz9s9Xzln?usp=sharing)
+
+![image](https://github.com/user-attachments/assets/71df87a0-7c9b-4c29-8a24-8b9e3691d811)
+
+
+
 
 
