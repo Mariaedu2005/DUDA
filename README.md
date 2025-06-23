@@ -45,8 +45,14 @@ VENDA DE CASAS
 [COLAB](https://colab.research.google.com/drive/1lAI1UxJoXL0Vf5eJAkS25wrsz9s9Xzln?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/71df87a0-7c9b-4c29-8a24-8b9e3691d811)
+*
+*
+*
+*
+PROVA USANDO ANÁLISE DE DADOS NO POWER BI
 
+https://github.com/user-attachments/assets/96252c99-79e7-4c18-ac92-86ac78d30ca0
 
-
+![Captura de tela 2025-06-23 195116](https://github.com/user-attachments/assets/325e2ec5-08dc-491b-91a9-7eafceb5968c)
 
 
